@@ -1,0 +1,28 @@
+h1
+{
+	color: red;
+}
+
+body
+{
+	background-color: lightpink;
+}
+
+#carte
+{
+	width:1000px;
+	background-color: hotpink;
+	margin:0 auto;
+	text-align: center ;
+	align-content: center;
+}
+
+ul li
+{
+	list-style-type: none;
+}
+
+h4
+{
+	color:lightblue;
+}
